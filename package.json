@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/listingslab/raaf.git"
+    "url": "git+https://github.com/listingslab-software/raaf.git"
   },
   "files": [
     "lib/**/*"
@@ -30,9 +30,6 @@
         "default": "./lib/cjs/index.js"
       }
     }
-  },
-  "dependencies": {
-    "typescript": "^4.9.4"
   },
   "devDependencies": {
     "@types/chai": "^4.3.4",
